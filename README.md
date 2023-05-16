@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑 I am Cristian, a programming student<br>📈 Creating bigger projects<br>👨‍💻 Deep knowledge in Javascript<br>👨🏾‍🤝‍👨🏻 Looking for a work team<br>💡 Willing to collaborate with other developers”
+🧑 I am Cristian, a programming student.<br>📈 Creating bigger projects.<br>👨‍💻 Deep knowledge in Javascript.<br>👨🏾‍🤝‍👨🏻 Looking for a work team.<br>💡 Willing to collaborate with other developers.
 
 
 # 💻 Tech Stack:
